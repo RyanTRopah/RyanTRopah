@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RyanTRopah
+- 👋 Hi, I’m Ryan
 - 👀 I’m interested in computers and robotics.
 - 🌱 I’m currently learning programming and ethical hacking.
 - 💞️ I’m looking to collaborate on software engineering.
